@@ -1,0 +1,23 @@
+{
+  "name": "putao-webgl",
+  "version": "1.0.0",
+  "description": "three.js  webgl learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "hs ../docs -p 8084 -s -c-1 -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merlot1818/putao-webgl.git"
+  },
+  "author": "merlot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Merlot1818/putao-webgl/issues"
+  },
+  "homepage": "https://github.com/Merlot1818/putao-webgl#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
